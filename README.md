@@ -1,17 +1,18 @@
 <div align="center">
-  <img width="736" height="214" alt="Arda'nın GitHub profil görseli" src="https://github.com/user-attachments/assets/77e7469b-2b05-4f93-bf51-df4e671058e5" />
+  <img width="736" height="214" alt="Arda's GitHub profile banner" src="https://github.com/user-attachments/assets/77e7469b-2b05-4f93-bf51-df4e671058e5" />
 
-  <h1>Selam, ben Arda 👋</h1>
-  <p>Türkiye'nin Eskişehir şehrinde yaşayan bir öğrenciyim.</p>
+  <h1>Arda</h1>
+  <p><code>STUDENT · PYTHON · ESKİŞEHİR, TURKEY</code></p>
+  <p><i>Quietly building. Relentlessly debugging.</i></p>
 </div>
 
-## Hakkımda
+## The short version
 
-- 🐍 Python ile kod yazmayı seviyorum.
-- 🎮 Boş zamanlarımda **League of Legends** ve **Minecraft** oynuyorum.
-- 🐶 Alf adında bir köpeğim var.
+- 🐍 I write Python and keep hunting down every last bug.
+- 🎮 I play **League of Legends** and **Minecraft**. Mercy is for the respawn screen.
+- 🐶 My dog Alf is the only one around here with unconditional trust.
 
-## Kullandığım teknoloji
+## Current weapon of choice
 
 <div>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" />
@@ -20,5 +21,5 @@
 ---
 
 <div align="center">
-  <sub>Eskişehir'den selamlar ☁️</sub>
+  <sub>No small talk. No mercy for bugs.</sub>
 </div>
