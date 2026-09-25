@@ -1,16 +1,24 @@
-<img width="736" height="214" alt="2096393322cb2c34097a14815260a730" src="https://github.com/user-attachments/assets/77e7469b-2b05-4f93-bf51-df4e671058e5" />
+<div align="center">
+  <img width="736" height="214" alt="Arda'nın GitHub profil görseli" src="https://github.com/user-attachments/assets/77e7469b-2b05-4f93-bf51-df4e671058e5" />
 
-<!--
-**ardayimben/ardayimben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Selam, ben Arda 👋</h1>
+  <p>Türkiye'nin Eskişehir şehrinde yaşayan bir öğrenciyim.</p>
+</div>
 
-Here are some ideas to get you started:
+## Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python ile kod yazmayı seviyorum.
+- 🎮 Boş zamanlarımda **League of Legends** ve **Minecraft** oynuyorum.
+- 🐶 Alf adında bir köpeğim var.
+
+## Kullandığım teknoloji
+
+<div>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Eskişehir'den selamlar ☁️</sub>
+</div>
