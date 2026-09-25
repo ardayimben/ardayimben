@@ -9,4 +9,40 @@
   <img src="https://img.shields.io/badge/Minecraft-24292f?style=for-the-badge&logo=minecraft&logoColor=62B47A" alt="Minecraft" />
 
   <p>🐶 Alf</p>
+
+  <br />
+
+  <a href="https://github.com/KULLANICI_ADIN">
+    <img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/KULLANICI_ADIN">
+    <img src="https://img.shields.io/badge/LinkedIn-24292f?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mail@ornek.com">
+    <img src="https://img.shields.io/badge/Email-24292f?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/KULLANICI_ID">
+    <img src="https://img.shields.io/badge/Discord-24292f?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=github_dark&hide_border=true&bg_color=24292f&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=github_dark&hide_border=true&bg_color=24292f&title_color=58A6FF" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KULLANICI_ADIN&theme=github-dark-blue&hide_border=true&background=24292f" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+
+### 📊 Metrics
+
+<img src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/main/github-metrics.svg" alt="Metrics" />
+
 </div>
