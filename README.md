@@ -1,4 +1,4 @@
-<img width="736" height="414" alt="2096393322cb2c34097a14815260a730" src="https://github.com/user-attachments/assets/77e7469b-2b05-4f93-bf51-df4e671058e5" />
+<img width="736" height="214" alt="2096393322cb2c34097a14815260a730" src="https://github.com/user-attachments/assets/77e7469b-2b05-4f93-bf51-df4e671058e5" />
 
 <!--
 **ardayimben/ardayimben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
