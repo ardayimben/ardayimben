@@ -1,0 +1,20 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"   # her gün gece yarısı otomatik günceller
+  workflow_dispatch:        # istediğin zaman manuel çalıştırabilirsin
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_habits: yes
